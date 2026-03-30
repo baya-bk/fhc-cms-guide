@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/fhc-cms-guide/',
   title: "FHC CMS Guide",
   description: "Comprehensive Content Management Guide for FHC Website",
   srcDir: '.',
