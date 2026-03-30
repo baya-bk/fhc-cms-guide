@@ -11,9 +11,7 @@ Manage FHC's regional branch offices and their contact details.
 3. Enter the **Branch Name** and **Address**.
 4. Add the **Phone** number and **Email** address.
 5. Click **Save**, then **Publish**.
-git remote add origin https://github.com/<your-username>/fhc-cms-guide.git
-git branch -M main
-git push -u origin main
+
 ---
 
 ## Field Reference
