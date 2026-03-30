@@ -53,5 +53,5 @@ The About Page has **a single entry**. There is no list — editing this entry d
   width="100%"
   height="450"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>

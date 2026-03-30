@@ -52,5 +52,5 @@ Manage profiles for the Board of Directors and Executive Management team.
   width="100%"
   height="450"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>

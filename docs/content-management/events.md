@@ -53,5 +53,5 @@ Manage upcoming FHC events from this section.
   width="100%"
   height="450"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>

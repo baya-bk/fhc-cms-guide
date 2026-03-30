@@ -42,5 +42,5 @@ Manage FHC's regional branch offices and their contact details.
   width="100%"
   height="450"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>

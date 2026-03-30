@@ -31,7 +31,7 @@ You will be taken to the Content Manager dashboard.
   width="100%"
   height="500"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>
 
 ---

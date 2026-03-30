@@ -95,5 +95,5 @@ You do not need to embed a `<iframe>` manually. Paste the plain video URL and th
   width="100%"
   height="450"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>

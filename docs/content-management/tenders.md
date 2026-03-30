@@ -107,5 +107,5 @@ There is no separate "Closed" status. Once the deadline passes, the tender is au
   width="100%"
   height="450"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>

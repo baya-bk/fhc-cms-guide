@@ -65,5 +65,5 @@ Manage career positions and recruitment announcements on the FHC website.
   width="100%"
   height="450"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>

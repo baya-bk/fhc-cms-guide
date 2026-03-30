@@ -52,5 +52,5 @@ Always verify the partner's website link is correct and working before publishin
   width="100%"
   height="450"
   frameborder="0"
-  allowfullscreen
+  allowfullscreen="true"
 ></iframe>
